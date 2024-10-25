@@ -188,6 +188,7 @@ section{
 }
 
 .section__text__p1{
+    margin-top: 1rem;
     text-align: center;
 }
 
@@ -197,6 +198,7 @@ section{
 }
 
 .title{
+    margin-top: 1rem;
     font-size: 3rem;
     text-align: center;
 }
@@ -213,6 +215,7 @@ section{
 .icon{
     cursor: pointer;
     height: 2rem;
+    margin-top: 1rem;
 }
 
 /* buttons */
